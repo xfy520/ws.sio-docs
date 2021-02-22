@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "diagnostics": true,
+    "allowJs": true,
+    "checkJs": true,
+    "target": "es2017",
+    "module": "CommonJS",
+    "declaration": true,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "listEmittedFiles": true,
+    "listFiles": true,
+    "esModuleInterop": true,
+  },
+  "include": [
+    "index.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
